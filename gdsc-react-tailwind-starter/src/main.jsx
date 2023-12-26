@@ -6,6 +6,6 @@ import Week6Main from './Week6/Week6Main.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <App />
+    < Week6Main />
   </React.StrictMode>,
 )

@@ -4,7 +4,7 @@ import Form from './Form'
 export default function Week6Main() {
   return (
     <div>
-        <Form/>
+        <Form />
     </div>
   )
 }
